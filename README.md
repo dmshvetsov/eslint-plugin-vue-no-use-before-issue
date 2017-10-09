@@ -12,7 +12,7 @@ Reproduce:
 
     $ npm start
 
-or if you are using cool tool `npx`
+or if you are using a cool tool `npx`
 
     $ npx eslint src/*.vue
 

@@ -1,13 +1,12 @@
 {
   "name": "eslint-plugin-vue-no-use-before-issue",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Unexpected no-use-before-define error dependent on preceding code and/or tags",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eslint src/*.vue"
   },
   "keywords": [],
-  "author": "",
+  "author": "shvetsovdm",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^8.0.1",
